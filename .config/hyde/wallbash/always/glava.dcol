@@ -1,0 +1,8 @@
+${confDir}/glava/wallbash_colors.glsl|${WALLBASH_SCRIPTS}/glava.sh
+
+/* Generado por wallbash (glava.dcol) - NO editar a mano, se
+   regenera cada vez que cambias de wallpaper o de tema. */
+#define wallbash_pry1 <wallbash_pry1_rgb>
+#define wallbash_pry2 <wallbash_pry2_rgb>
+#define wallbash_pry3 <wallbash_pry3_rgb>
+#define wallbash_pry4 <wallbash_pry4_rgb>
